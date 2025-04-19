@@ -15,9 +15,3 @@ This adapter's Gameport connector is in-line with the PCB, which maximises clear
 ## Status
 
 I will release the project files here in the near future.
-
----
-### Licence
-
-My work in this repository is free and open source.
-
